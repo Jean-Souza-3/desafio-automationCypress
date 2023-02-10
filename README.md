@@ -21,12 +21,12 @@ Esse projeto foi desenvolvido para aperfeiçoar o conhecimento em automação de
 
     1. Clone o projeto no local desejado:
         ```
-        git clone https://github.com/Jean-Souza-3/desafio-automacaoTeste-AutomationPractice.git testAutomation
+        git clone https://github.com/Jean-Souza-3/desafio-automationCypress.git
         ```
 
     2. Instale as dependências do playwright:
         ```
-        npm install playwright
+        npm install cypress
         ```
     
     3. Comando para rodar o projeto:
