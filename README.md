@@ -24,14 +24,14 @@ Esse projeto foi desenvolvido para aperfeiçoar o conhecimento em automação de
         git clone https://github.com/Jean-Souza-3/desafio-automationCypress.git
         ```
 
-    2. Instale as dependências do playwright:
+    2. Instale as dependências do cypress:
         ```
         npm install cypress
         ```
     
     3. Comando para rodar o projeto:
         ```
-        npx playwright test
+        npx cypress open
         ```
           
 ## :framed_picture:Gifs
