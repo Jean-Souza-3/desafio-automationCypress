@@ -36,5 +36,10 @@ Esse projeto foi desenvolvido para aperfeiçoar o conhecimento em automação de
           
 ## :framed_picture:Gifs
 
+* Comprar Produto
 
-https://user-images.githubusercontent.com/100387707/218278276-099d6f70-3a03-40cb-85ac-72ceef2fabf0.mp4
+https://user-images.githubusercontent.com/100387707/218280061-7bdfe4f9-cf13-43c8-890f-cdfab2167006.mp4
+
+* Login com Sucesso e Login sem Sucesso
+
+https://user-images.githubusercontent.com/100387707/218278654-ca527a53-4cb8-4d77-b47b-7311c766802e.mp4
