@@ -35,3 +35,6 @@ Esse projeto foi desenvolvido para aperfeiçoar o conhecimento em automação de
         ```
           
 ## :framed_picture:Gifs
+
+
+https://user-images.githubusercontent.com/100387707/218278276-099d6f70-3a03-40cb-85ac-72ceef2fabf0.mp4
