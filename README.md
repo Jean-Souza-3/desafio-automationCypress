@@ -1,4 +1,3 @@
-
 <h1 align="center">Automação de Testes com Cypress</h1>
 
 <p align="center">Web site <a href="https://www.saucedemo.com/">Sauce Demo</a></p>
